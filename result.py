@@ -7,7 +7,7 @@ def average(m1, m2, m3):
 
 
 def is_pass(mark):
-    return mark >= 60
+    return mark >= 40
 
 
 def get_grade(mark):
